@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "why i'm here"
-date:       2017-11-20 14:52:55 +0000
+title:      "Why I'm Here"
+date:       2017-11-20 09:52:55 -0500
 permalink:  why_im_here
 ---
 
@@ -14,15 +14,13 @@ But it’s the scary situations that necessitate innovation and invention!  So I
 
 After spending a couple months reading and utilizing free online resources, I decided that this is something I could truly learn to love. Coding appealed for a number of reasons:
 
-1. I could do it from anywhere. And in a diverse range of work environments. For example, right now I’m working alone at a café in Hong Kong with the support of this lovely online community.
+**1.** I could do it from anywhere. And in a diverse range of work environments. For example, right now I’m working alone at a café in Hong Kong with the support of this lovely online community.
 
-2.	The journey will never not include learning. Even when I become great at this, there will still be more to learn. How could it ever get boring?
+**2.**	The journey will never not include learning. Even when I become great at this, there will still be more to learn. How could it ever get boring?
 
-3.	It engages such a diverse range of brain power! Creativity, vision, analytical skills, problem solving…etc. This is important to me, as I want to develop myself as both an engineer and an artist, as both an analyst and an innovator.
+**3.** It engages such a diverse range of brain power! Creativity, vision, analytical skills, problem solving…etc. This is important to me, as I want to develop myself as both an engineer and an artist, as both an analyst and an innovator.
 
-4.	It’s challenging.
+**4.**	It’s challenging. And rewarding. 
 
-5.	It’s rewarding. 
-
-So that’s why I’m here.
+That’s why I’m here.
 
