@@ -1,12 +1,13 @@
 ---
 layout: post
 title:      "Language Barriers"
-date:       2017-12-07 06:57:51 +0000
+date:       2017-12-07 01:57:51 -0500
 permalink:  language_barriers
 ---
 
+
+**Do not allow any language to intimidate you simply because it’s unfamiliar.
 **
-Do not allow any language to intimidate you simply because it’s unfamiliar.**
 
 I really have no excuse for this one, but after getting all strung up over a gemspec error that turned out to be stupidly self-explanatory, I’m making this one of my new coding mantras. 
 
