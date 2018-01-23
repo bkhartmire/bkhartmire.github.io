@@ -11,7 +11,7 @@ It’s 7:00AM in Paris. Despite only 3 hours rest last night, I feel ready to co
 I’d like to share some of the technical errors I stumbled across and how to fix them. In order to make this information more helpful to readers (do I have any readers??), I’ll break down each of these technical issues in a separate blog post (coming soon): 
 
 1. [Configuring OmniAuth With Devise](http://brittanyhartmire.com/configuring_omniauth_with_devise)
-2. Fixing an ‘Address already in use’ Error Message
+2. [Fixing an ‘Address Already in Use’ Error Message](http://brittanyhartmire.com/enter_your_title_here)
 3. Validating Nested Forms
 4. Redirecting v. Rendering. 
 
