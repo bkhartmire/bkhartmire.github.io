@@ -41,6 +41,6 @@ Now I am grateful that my Rails app was delayed so unexpectedly by my broken Mag
 
 This wasn’t the first time I’ve made friends or met experienced developers in global cities simply by coding in a public space. For instance, a barista in Tokyo once invited me to a collaborative weekly coding session and I’ve met Pakistani computer science majors at a hostel in Hong Kong simply by quietly coding in a corner. These interactions always end up in pleasant social interactions and sometimes even feedback and productive learning opportunities. Now potentially even job opportunities! If you’re working remotely—I’m talking to you, fellow Flatiron Online Web Development students!—I highly recommend taking your work outside your home. If it isn’t to work at an actual coding meetup, even working in a café of hotel/hostel lobby can lead to special moments with fellow developers.
 
-*Edit: Turns out everything in this city is closed on Tuesdays…I’ll have to tackle the Louvre another day.*
+*Update: Turns out everything in this city is closed on Tuesdays…I’ll have to tackle the Louvre another day.*
 
 
