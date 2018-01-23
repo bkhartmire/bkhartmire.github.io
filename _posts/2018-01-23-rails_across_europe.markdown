@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Rails Across Europe"
-date:       2018-01-23 13:53:00 +0000
+date:       2018-01-23 08:53:01 -0500
 permalink:  rails_across_europe
 ---
 
@@ -10,7 +10,7 @@ It’s 7:00AM in Paris. Despite only 3 hours rest last night, I feel ready to co
 
 I’d like to share some of the technical errors I stumbled across and how to fix them. In order to make this information more helpful to readers (do I have any readers??), I’ll break down each of these technical issues in a separate blog post (coming soon): 
 
-1. Configuring OmniAuth with Devise
+1. [Configuring OmniAuth With Devise](http://brittanyhartmire.com/configuring_omniauth_with_devise)
 2. Fixing an ‘Address already in use’ Error Message
 3. Validating Nested Forms
 4. Redirecting v. Rendering. 
