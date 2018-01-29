@@ -6,7 +6,7 @@ permalink:  enter_your_title_here
 ---
 
 
-This is a simple fix, so don’t despair! I started facing the issue that often when I’d try to start my rails server I’d receive the following error:
+This is a simple fix, so don’t despair! While working on a Rails app, I’d often receive the following error when I tried to start up my server:
 
 `initialize': Address already in use - bind(2) for "0.0.0.0" port 3000 (Errno::EADDRINUSE)
 
