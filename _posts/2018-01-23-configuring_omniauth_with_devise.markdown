@@ -59,7 +59,7 @@ Great! Now you have a User class and all of the associated sign in/sign up forms
 ![Imgur](https://i.imgur.com/HyuC9XD.png)
 
 
-#from_omniauth makes the user information from the provider account accessible throughout the rest of your app.
+The .from_omniauth makes the user information from the provider account accessible throughout the rest of your app.
 
 **Step 8.**  Create a new controller to pass along the Omniauth callbacks. Create a new file called callbacks_controller.rb: 
 
