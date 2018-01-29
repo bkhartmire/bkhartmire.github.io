@@ -8,7 +8,7 @@ permalink:  rails_across_europe
 
 It’s 7:00AM in Paris. Despite only 3 hours rest last night, I feel ready to conquer the entire 652,000 sq. ft. Louvre Museum. (Fun fact- it actually takes several weeks to see every single artwork housed in there. So maybe I won’t conquer the entire museum...) This energy might be because of the decadent cappuccino I’m sipping on right now or my excitement for another day in Paris, but I think it’s mainly the exhilaration from submitting my Rails app ten minutes ago!
 
-I’d like to share some of the technical errors I stumbled across and how to fix them. In order to make this information more helpful to readers (do I have any readers??), I’ll break down each of these technical issues in a separate blog post (coming soon): 
+I’d like to share some of the technical errors I stumbled across and how to fix them. In order to make this information more helpful to readers (do I have any readers??), I’ll break down each of these technical issues in a separate blog post: 
 
 1. [Configuring OmniAuth With Devise](http://brittanyhartmire.com/configuring_omniauth_with_devise)
 2. [Fixing an ‘Address Already in Use’ Error Message](http://brittanyhartmire.com/enter_your_title_here)
