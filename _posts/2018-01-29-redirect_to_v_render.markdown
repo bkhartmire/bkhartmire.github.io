@@ -50,7 +50,7 @@ I'll save you the headache and share the resolution I found 30 minutes later. Ev
 
 By using render instead of redirect_to, my edit view still has access to the variables assigned in my controller action when the new request is sent. Because @review was assigned to the edited_review instance variable I defined in my controller, my edit form now has access to its validation errors and is thus able to correctly display all the error messages. 
 
- **Redirecting didn’t carry any of that data from my controller to the view page. Redirect_to *re*-requests a new URL. A brand new request was being sent to the edit controller action oblivious to everything my user had already gone through! **
+ **Redirecting didn’t carry any of that data from my controller to the view page. Redirect_to re-requests a new URL. A brand new request was being sent to the edit controller action oblivious to everything my user had already gone through! **
 
 Redirect_to works well on line 34 of my controller action because @review had already been updated. The updated version is saved to my database on line 33, so there’s no need to use render. 
 
