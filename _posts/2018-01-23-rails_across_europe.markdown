@@ -23,7 +23,7 @@ Has it only been a week? What a ride. I’ve been hopping all over Europe with a
 
 (Wo)man plans, and God laughs.
 
-My adapter was left behind somewhere between BCN and Amsterdam and when my computer died, I had no way of recharging it. I purchased another adapter from a hardware store randomly located in the center of Amsterdam’s Red Light District. My computer did not work with the adapter even after consulting several opinions about the safety of its voltage. Don’t ask me why, but my relatively new MagSafe power adapter broke when I tried to plug it into the European adapter. 
+My adapter was left behind somewhere between BCN and Amsterdam and when my computer died, I had no way of recharging it. I purchased another adapter from a hardware store randomly located in the center of Amsterdam’s Red Light District. My computer did not work with the adapter even after consulting several opinions about the safety of its voltage. Don’t ask me why, but my relatively new MagSafe power adapter broke when I connected it to the European adapter. 
 
 I didn’t know this was the case of course, so I ensued to worry about the well-being of my barely 7-month old MacBook.  I intended to visit the Apple Store in Amsterdam but my body, sickened by the disappointing Dutch food no doubt, decided to hijack my day via nonstop vomiting. My flight out of the Netherlands was the next morning, so I had to wait 2 days until I arrived in Bucharest before having access to Apple technicians again. 
 
