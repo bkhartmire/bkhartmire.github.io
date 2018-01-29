@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Configuring OmniAuth with Devise"
-date:       2018-01-23 18:42:32 +0000
+date:       2018-01-23 13:42:33 -0500
 permalink:  configuring_omniauth_with_devise
 ---
 
@@ -14,7 +14,7 @@ OmniAuth. It’s a gem for Rails. And it’s dope, for you and your users! You c
 
 [Another gem](http://github.com/plataformatec/devise) for Rails. It sprinkles fairy dust all over your User model and makes your life 10x easier if you have lots of authentication needs. Otherwise, it's unnecessary and can do more harm than good.
 
-**Got it. So how can I use both of these at the same time?? **
+**Got it. So how can I use both of these at the same time??**
 
 You’ve created a rails application and now you’re ready to configure OmniAuth with Devise. 
 
@@ -34,7 +34,7 @@ In this example I’d like my users to have the option of logging in with Facebo
 
 Great! Now you have a User class and all of the associated sign in/sign up forms.
 
-**Step 3.** If you want to require your users to have an account and be logged in before accessing the views in your app, add the following code to you Application Controller:
+**Step 3.** If you want to require your users to have an account and be logged in before accessing the views in your app, add the following code to your Application Controller:
 
 
 ![Imgur](https://i.imgur.com/5HMzL66.png)
