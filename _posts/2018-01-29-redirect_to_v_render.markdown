@@ -40,9 +40,9 @@ So when I try to edit a review, everything runs smoothly if my updated version i
 ![Imgur](https://i.imgur.com/QwguLN4.png)
 
 
-Whyyyy?! So according to my browser, @restaurant is nil…That would explain the NoMethodError. But what happened to my variable?? Fishy…
+Whyyy??! So according to my browser console, @restaurant is nil…That would explain the NoMethodError, but what happened to my variable? Something's fishy…
 
-This issue was fixed when I changed redirect_to on line 38 of my Reviews Controller to render.
+I'll save you the headache and share the resolution I found 30 minutes later. Everything was fixed when I changed redirect_to on line 38 of my Reviews Controller to render.
 
 
 ![Imgur](https://i.imgur.com/nZFSl4i.png)
