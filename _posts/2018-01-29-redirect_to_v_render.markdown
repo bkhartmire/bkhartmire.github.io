@@ -28,6 +28,9 @@ In this controller action, I am checking to see if the input in my edit form is 
 ![Imgur](https://i.imgur.com/PBlPnQ0.png)
 
 
+The form partial:
+
+
 ![Imgur](https://i.imgur.com/KcNU2JJ.png)
 
 
