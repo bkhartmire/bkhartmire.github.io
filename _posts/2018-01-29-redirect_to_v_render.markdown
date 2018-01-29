@@ -10,7 +10,7 @@ This one is for my Rails babes. Render and redirect_to are both commonly used in
 
 *Are they interchangeable??* 
 
-**Definitely not, as I just painfully learned!! **
+**Definitely not, as I just painfully learned.**
 
 *So then what’s the difference?* 
 
