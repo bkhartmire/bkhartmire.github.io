@@ -42,7 +42,7 @@ So when I try to edit a review, everything runs smoothly if my updated version i
 
 Whyyyy?! So according to my browser, @restaurant is nil…That would explain the NoMethodError. But what happened to my variable?? Fishy…
 
-This issue was fixed when I changed redirect_to on line 38 of my Reviews Controller to redirect.
+This issue was fixed when I changed redirect_to on line 38 of my Reviews Controller to render.
 
 
 ![Imgur](https://i.imgur.com/nZFSl4i.png)
