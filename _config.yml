@@ -4,7 +4,7 @@ header-img: img/home-bg.png
 email: bkhartmire@gmail.com
 copyright_name: bkhartmire
 description: > # this means to ignore newlines until "baseurl:"
-  Didn't Feel Like Writing a Travel Blog, So Here's a Coding One Instead
+  Didn't feel like writing a travel blog so here's a coding one instead.
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  bkhartmire
