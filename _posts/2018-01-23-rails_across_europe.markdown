@@ -13,7 +13,7 @@ I’d like to share some of the technical errors I stumbled across and how to fi
 1. [Configuring OmniAuth With Devise](http://brittanyhartmire.com/configuring_omniauth_with_devise)
 2. [Fixing an ‘Address Already in Use’ Error Message](http://brittanyhartmire.com/enter_your_title_here)
 3. Validating Nested Forms
-4. Redirecting v. Rendering. 
+4. [Redirect_to v. Render](http://brittanyhartmire.com/redirect_to_v_render)
 
 The remainder of this post won’t contain any useful technical information. Only read on if you care to hear about my chaotic week (almost) breaking my computer, getting a stomach virus in Amsterdam, losing power in a Transylvania snowstorm, and grabbing breakfast with a French startup founder looking for Ruby developers. 
 
