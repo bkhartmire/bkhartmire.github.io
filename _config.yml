@@ -1,15 +1,14 @@
 # Site settings
-title: The Coding Sojourner
+author: Brittany Hartmire
+title: The Vagabond Coder
 header-img: img/home-bg.png
 email: bkhartmire@gmail.com
-copyright_name: bkhartmire
+copyright_name: Brittany Hartmire
 description: > # this means to ignore newlines until "baseurl:"
   Didn't feel like writing a travel blog, so this one's about code.
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  bkhartmire
-learn_profile: bkhartmire
-email_username: bkhartmire@gmail.com
 
 # Build settings
 markdown: kramdown
