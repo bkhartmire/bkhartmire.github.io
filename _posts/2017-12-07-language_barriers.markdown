@@ -12,7 +12,7 @@ I really have no excuse for this one, but after getting all strung up over a gem
 
 I’ve spent the past five months in countries where the national language is either Japanese, Khmer, Cantonese, or Mandarin. I speak 0 out of 4 of these languages and have actually grown quite comfortable going about my daily routine with perpetual language barriers. Temporarily living in Tokyo now, finding an English or Spanish speaker is more like a special treat than an expectation. I’ve undergone a complete paradigm shift when it comes to my ability to communicate with others or my physical surroundings, which is necessary in order to not feel stressed or overwhelmed.  
 
-Well for some reason the organized chaos of Tokyo is easier for me to navigate than that of my shell. 
+Well for some reason, the organized chaos of Tokyo is easier for me to navigate than that of my shell. 
 
 Here’s a breakdown of what happened:
 Building my CLI Data Gem project, I was stuck before I could even get my bin file working! I had followed the bundler installation walkthroughs carefully, triple-checked all my require_relatives, and had no idea what was going on. I was met with a gemspec validation error: ‘The validation error was “FIXME’ or ‘TODO’ is not a description’” . 
@@ -23,4 +23,5 @@ But I racked my brain, tried a million different things, and consulted Google fo
 
 I did not comprehend the message because of how it was presented. I am intimidated by Bash and the language it speaks, and that hindered my ability to see the message. This is something I’m working on and deliberately embraced throughout my process of completing the gem. (It’s complete now, woohoo!) There is only harm in feeling intimidated or overwhelmed. Just breathe, reassess, and enjoy the process. I hope this helps others shift perspective ☺
 
+[Check out this post on my new blog!](http://medium.com/another-coding-nomad/language-barriers-db142601bb26) 
 
